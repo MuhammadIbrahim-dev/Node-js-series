@@ -1,0 +1,14 @@
+{
+  "name": "node-class-3",
+  "version": "1.0.0",
+  "description": "testing",
+  "main": "script.js",
+  "scripts": {
+    "test": "ibra"
+  },
+  "keywords": [
+    "testing"
+  ],
+  "author": "ibrahim",
+  "license": "ISC"
+}
