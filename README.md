@@ -16,5 +16,9 @@ CRUD  with file system stand for files Created Read Update Delete.
 ## node class#8
 Asyncronuos or syncronous.  
 ## express js # 1
-install express framework 
+install express framework .
+## express # 2
+static and dynamic routing and html rerender n js.
+## express # 3
+install template enging ejs in node js and use .
 
