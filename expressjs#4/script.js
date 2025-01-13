@@ -11,8 +11,9 @@ app.get('/profile',(req ,resp)=>{
     const users ={
         name :'ibrahim',
         email: 'ibrahim@test.com',
-        city: 'faisalabad',
-        skills: ['java','php','script','sql','react','html'],
+        city: 'fsd',
+        skills: ['java','sQl','html','react'],
+
     }
     resp.render('profile',{users});
 });
